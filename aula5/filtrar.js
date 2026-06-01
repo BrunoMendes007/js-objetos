@@ -10,4 +10,4 @@ function filtrarApartamentosSemComplementos(clientes){
 
 const filtrados = filtrarApartamentosSemComplementos(clientes);
 
-console.log(filtrar);
+console.log(filtrados);
