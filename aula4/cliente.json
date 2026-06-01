@@ -1,0 +1,12 @@
+{
+    "nome": "Peter Parker",
+    "idade": 17,
+    "email": "PeterParker@backend.com",
+    "telefone": ["42 3649236438", "42 823674293"],
+    "endereco": { 
+         "rua": "R. Joseph Climber",
+        "numero": 6767,
+        "apartamento": true,
+        "complemento": "ap 67"
+    }
+}
