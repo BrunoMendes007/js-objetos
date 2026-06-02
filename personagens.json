@@ -1,0 +1,114 @@
+[
+  {
+    "nome": "Tony Stark",
+    "email": "iamironman@starkindustries.com",
+    "telefone": [
+      "2125550100",
+      "21295550100"
+    ],
+    "endereco": {
+      "logradouro": "Avenida Malibu",
+      "numero": "10880",
+      "cep": "90265",
+      "apartamento": false,
+      "complemento": "Mansão Stark (Garganta do Diabo)"
+    }
+  },
+  {
+    "nome": "Steve Rogers",
+    "email": "cap75@avengers.org",
+    "telefone": [
+      "7185550192",
+      "71895550192"
+    ],
+    "endereco": {
+      "logradouro": "Rua L8",
+      "numero": "569",
+      "cep": "11201",
+      "apartamento": true,
+      "complemento": "Apartamento clássico no Brooklyn"
+    }
+  },
+  {
+    "nome": "Peter Parker",
+    "email": "webshooter@dailybugle.com",
+    "telefone": [
+      "7185550144",
+      "71895550144"
+    ],
+    "endereco": {
+      "logradouro": "Avenida Ingram",
+      "numero": "20",
+      "cep": "11375",
+      "apartamento": false,
+      "complemento": "Casa da tia May"
+    }
+  },
+  {
+    "nome": "Thor Odinson",
+    "email": "godofthunder@asgard.gov",
+    "telefone": [
+      "0015550111",
+      "00195550111"
+    ],
+    "endereco": {
+      "logradouro": "Rua das Divindades",
+      "numero": "1",
+      "apartamento": false,
+      "complemento": "Palácio Real de Nova Asgard"
+    }
+  },
+  {
+    "nome": "Bruce Banner",
+    "email": "hulk.smash@gamma-labs.edu",
+    "telefone": [
+      "5055550132",
+      "50595550132"
+    ],
+    "endereco": {
+      "logradouro": "Estrada do Deserto",
+      "numero": "404",
+      "apartamento": false,
+      "complemento": "Laboratório subterrâneo isolado"
+    }
+  },
+  {
+    "nome": "Natasha Romanoff",
+    "email": "blackwidow@shield.gov",
+    "telefone": [
+      "2025550175",
+      "20295550175"
+    ],
+    "endereco": {
+      "logradouro": "Rua das Sombras",
+      "numero": "84",
+      "cep": "20001",
+      "apartamento": true,
+      "complemento": "Esconderijo seguro SHIELD"
+    }
+  },
+  {
+    "nome": "Wanda Maximoff",
+    "email": "scarletwitch@westview.net",
+    "telefone": [
+      "2015550166",
+      "20195550166"
+    ],
+    "endereco": {
+      "logradouro": "Rua Sherwood",
+      "numero": "2800",
+      "cep": "07080",
+      "apartamento": false,
+      "complemento": "Atrás da cerca branca"
+    }
+  },
+  {
+    "nome": "Stephen Strange",
+    "email": "sorcerer.supreme@kamartaj.org",
+    "telefone": [
+      "2125550188",
+      "21295550188"
+    ],
+    "endereco": {
+      "logradouro": "Rua Bleecker",
+      "numero": "177A
